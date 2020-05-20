@@ -1,0 +1,3 @@
+﻿  gun.cpp
+C:\Users\christan\source\repos\gun\gun\gun.cpp(271): warning C4715: “EntryNode”: 不是所有的控件路径都返回值
+  gun.vcxproj -> C:\Users\christan\source\repos\gun\Debug\gun.exe
