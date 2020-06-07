@@ -1,0 +1,13 @@
+glctrl.o
+hkctrl.o
+main.o
+mainfunction.o
+mainwindow.o
+rinctrl.o
+rkctrl.o
+moc_glctrl.o
+moc_hkctrl.o
+moc_mainfunction.o
+moc_mainwindow.o
+moc_rinctrl.o
+moc_rkctrl.o
